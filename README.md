@@ -1,4 +1,4 @@
 # Portfolio
 <div align="center">
-  <img src="https://i.imgur.com/tCT77XF.jpeg"  />
+  <img src="https://i.imgur.com/TAHoMni.jpeg"  />
 </div>
